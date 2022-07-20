@@ -11,5 +11,5 @@ func main() {
 			sum += i
 		}
 	}
-	fmt.Println("Sum of all mutiple of 3 or 5 below 10 is: ", sum)
+	fmt.Println("Sum of all mutiple of 3 or 5 below 1000 is: ", sum)
 }
